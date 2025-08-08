@@ -1,0 +1,15 @@
+THis is line one
+This is line two
+this is line three
+
+:qw!
+
+
+:qw!
+
+
+[A[A
+cleaqr
+clear
+:
+:W
