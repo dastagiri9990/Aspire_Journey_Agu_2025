@@ -4,12 +4,9 @@ this is line three
 
 :qw!
 
+This is line 10
+hi
+heloo
+asfkjadsf
+jkasgjdfg
 
-:qw!
-
-
-[A[A
-cleaqr
-clear
-:
-:W
